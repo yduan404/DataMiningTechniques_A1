@@ -1,0 +1,14 @@
+predictor
+activity
+appCat.builtin
+appCat.communication
+appCat.entertainment
+appCat.other
+appCat.social
+call
+circumplex.arousal
+circumplex.valence
+mood
+screen
+circumplex.arousal_was_missing_originally
+circumplex.valence_was_missing_originally
